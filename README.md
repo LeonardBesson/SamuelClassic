@@ -2,7 +2,7 @@ This is a port of the original Vanilla addon Samuel for Classic WoW 1.13.
 All credit goes to the original author: https://github.com/Terrub/Samuel
 
 As I currently do not have access to the beta, I will not be able to fix bugs in the near future.
-Feel free to open an issue and I will take a look at it as I get access.
+Feel free to open an issue and I will take a look at it as soon as I get access.
 
 Samuel
 ======
